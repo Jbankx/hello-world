@@ -1,4 +1,4 @@
 # hello-world
 Creating a repository
 
-I am student
+I am a student
